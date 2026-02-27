@@ -1,0 +1,4 @@
+project_id = "knusgkirjfraqoxxzoqt"
+
+[functions.place-bet]
+verify_jwt = false
